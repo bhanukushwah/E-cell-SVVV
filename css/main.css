@@ -1325,7 +1325,7 @@ input::-moz-focus-inner {
 .header-logo {
   z-index: 501;
   display: inline-block;
-  margin: 0;
+  margin-left:6.5%;
   padding: 0;
   position: absolute;
   left: 110px;
